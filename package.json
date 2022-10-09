@@ -1,0 +1,15 @@
+{
+  "name": "babel-known",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ssshishi/babel-known.git",
+  "author": "shenshi <shenshi@shouqianba.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/generator": "^7.19.3",
+    "@babel/parser": "^7.19.3",
+    "@babel/template": "^7.18.10",
+    "@babel/traverse": "^7.19.3",
+    "babel-types": "^6.26.0"
+  }
+}
